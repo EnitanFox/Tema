@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://imgur.com/gallery/mumZOJ4);
+  --theme-background-image: url(https://i.imgur.com/Zvl1Khh.jpeg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://imgur.com/k7HlmHD);
+  --home-icon-image: url(https://i.imgur.com/dRaI0OT.jpg);
 
   /*
     Change your friends icon image position
